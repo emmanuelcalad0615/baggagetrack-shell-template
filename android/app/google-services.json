@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11919347322",
+    "project_id": "examen-movil2",
+    "storage_bucket": "examen-movil2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11919347322:android:3c241f5bca415e6448b5c3",
+        "android_client_info": {
+          "package_name": "co.edu.examen.examen_practico_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTOIqlRWuUhm4ED_nVZ5Hb5KeiLQMrEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
