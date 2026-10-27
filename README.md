@@ -1,6 +1,6 @@
 # BaggageTrack - Shell de examen
 
-Proyecto base para el Examen Practico 2 de Desarrollo de Aplicaciones Moviles. Variante 2
+Proyecto base para el Examen Practico 2 de Desarrollo de Aplicaciones Moviles. Variante D
 
 
 ## Integrantes: 
